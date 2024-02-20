@@ -13,6 +13,8 @@ CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 港澳台,#genre#
+翡翠台1,https://live.hkdvb.com/hls/live/81.m3u8?token=658679288082653
+翡翠台2,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist_w1170897389.m3u8
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰卫视,http://210.210.155.37/session/e17ffb70-cf0e-11ee-a2e5-bc00baf57ce9/uq2663/h/h157/S4/mnf.m3u8
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
