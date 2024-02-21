@@ -12,6 +12,7 @@ CCTV9记录,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.
 CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
 港澳台,#genre#
 翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=658679288082653
 凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -19,6 +20,7 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+
 地方卫视,#genre#
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
@@ -35,9 +37,10 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+
 体育娱乐,#genre#
 广东体育1,http://jyjxy.7766.org:8811/hls/18/index.m3u8#http://113.65.8.165:8000/udp/239.77.0.168:5146
-广东体育2,http://ci.emdoor.tech:8080/touchtv.php?pk=1184#http://61.141.139.78:8888/rtp/239.77.1.237:5146
+广东体育2,http://ci.emdoor.tech:8080/touchtv.php?pk=1184#http://61.141.139.78:8888/rtp/239.77.1.237:5146#http://113.65.8.165:8000/udp/239.77.1.97:5146
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV高尔夫-网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
