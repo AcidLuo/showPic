@@ -37,7 +37,7 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 体育娱乐,#genre#
 广东体育1,http://jyjxy.7766.org:8811/hls/18/index.m3u8#http://113.65.8.165:8000/udp/239.77.0.168:5146
-广东体育2,http://113.65.8.165:8000/udp/239.77.0.168:5146#http://jyjxy.7766.org:8811/hls/18/index.m3u8#http://61.141.139.78:8888/rtp/239.77.1.237:5146
+广东体育2,http://ci.emdoor.tech:8080/touchtv.php?pk=1184#http://61.141.139.78:8888/rtp/239.77.1.237:5146
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV高尔夫-网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
